@@ -4,3 +4,6 @@ Ever thought that even I could speak at least some phrases in french. Here I am,
 
 
 #### To get the direct link of the apk, click the link down below-
+
+https://github.com/wolfy222/Basic-Phrases/blob/master/Basic%20Phrases.apk
+
